@@ -1,4 +1,4 @@
-# Image Processing Masks-Convolution
+# Filters Frequency Domain Image Processing
 
 Developing from Scratch Filters that change Images and apply them via Convolution With the purpose of Understand the Basics of Image Processing  - Originally developed 04/03/2018
 
