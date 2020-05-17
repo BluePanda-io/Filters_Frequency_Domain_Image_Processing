@@ -1,6 +1,6 @@
 # Image Processing Masks-Convolution
 
-Developing from Scratch Filters that change Images and apply them via Convolution With the purpose of Understand the Basics of Image Processing
+Developing from Scratch Filters that change Images and apply them via Convolution With the purpose of Understand the Basics of Image Processing  - Originally developed 04/03/2018
 
 
 ## In this project it was developed 
