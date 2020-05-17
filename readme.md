@@ -4,10 +4,16 @@ Developing from Scratch Filters that change Images and apply them via Convolutio
 
 
 ## In this project it was developed 
-1. First and really important goal of the project was to create a function that can take as input an image and a filter and has as output a filtered image, and this function will be used in multiple steps throught the project
+1. First and really important goal of the project was to create a function that can take as input an image, filter and has as output a filtered image. This function will be used later in multiple steps throught the project
+2. The second step was to create multiple different Filters in the frequency domain and apply them on images
+3. Finally directional filters where developed in order to identify the differences and the pros and cons of each filter 
 
 ## Results of the Project 
-<img src="Images/1_GrayScaleAndRGBtoBluredImages.png" width="600">
+<img src="Images/Butterworth.jpg" width="600">
+<img src="Images/Ideal.jpg" width="600">
+<img src="Images/butterDirectional.jpg" width="600">
+
+
 
 ## What I learned from this Project
 - It was vital to deeply uderstand what is Fourier and how to use it 
